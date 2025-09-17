@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Automatiza Plano de Compensação de Ausências
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Automatiza a inserção do PCA no Sigeduca
 // @author       Elder Martins
 // @match        http*://*/*
-// @updateURL
-// @downloadURL
+// @updateURL    https://raw.githubusercontent.com/donidozh/AutomatizaPCA/main/AutomatizaPCA.user.js
+// @downloadURL  https://raw.githubusercontent.com/donidozh/AutomatizaPCA/main/AutomatizaPCA.user.js
 // @grant        none
 // ==/UserScript==
 
