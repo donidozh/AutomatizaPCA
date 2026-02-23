@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Automatiza PCA
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  Automação do lançamento de PCA no Sigeduca
 // @author       Elder Martins
 // @match        http://sigeduca.seduc.mt.gov.br/ged/hwmgedatestado.aspx*
