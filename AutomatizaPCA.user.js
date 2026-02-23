@@ -7,6 +7,8 @@
 // @match        http://sigeduca.seduc.mt.gov.br/ged/hwmgedatestado.aspx*
 // @match        http://sigeduca.seduc.mt.gov.br/ged/ttgedatestado.aspx*
 // @grant        none
+// @downloadURL  https://github.com/donidozh/AutomatizaPCA/raw/refs/heads/main/AutomatizaPCA.user.js
+// @updateURL    https://github.com/donidozh/AutomatizaPCA/raw/refs/heads/main/AutomatizaPCA.user.js
 // ==/UserScript==
 
 (function() {
